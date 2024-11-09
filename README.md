@@ -1,4 +1,4 @@
-# story Genie
+# story Genie 🐍📖
 
 I made a mad-lib / story genie  which has 3 stories to choose from to make a story with your user input! I'm really glad how it turned out but I want to add more features! Do have a go!
 
